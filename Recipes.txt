@@ -4,4 +4,7 @@ Kheer
 Pasta
 Paneer
 
+Noodles
+Pizza
+
 Thank You!
